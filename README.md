@@ -8,7 +8,6 @@
 
 ![C](https://img.shields.io/badge/language-C-blue.svg)
 ![Status](https://img.shields.io/badge/status-conclu%C3%ADdo-brightgreen)
-![License](https://img.shields.io/badge/license-MIT-lightgrey)
 ![Platform](https://img.shields.io/badge/platform-Linux%20%7C%20Windows%20%7C%20macOS-informational)
 
 </div>
