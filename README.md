@@ -168,12 +168,12 @@ mp-ip-magicLibrary/
 
 ## 👤 Autor
 
-Desenvolvido por **Matheus** — estudante de Ciência da Computação na UFG.
+Desenvolvido por **Matheus Muniz**, **Guilherme Fleury** e **Vitor Yudi**.
 
 ---
 
 <div align="center">
 
-*Projeto acadêmico desenvolvido para a disciplina de Introdução à Programação.*
+*Mini-Projeto desenvolvido para a disciplina de Introdução à Programação.*
 
 </div>
